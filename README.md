@@ -4,6 +4,7 @@
 </div>
 
 🎃🎃 Our presentation towards this work is [here](https://docs.google.com/presentation/d/1uDUW7GX3hQ1FPUm9PiDUx8VAGn4Us663pElBj16rPug/edit#slide=id.g10997ba2ab3_0_394)
+🎃🎃 Our report towards this work is [here](https://github.com/ngctnnnn/Automated_billiards/report.pdf)
 
 ### Table of contents
 1. [Introduction](#1-introduction)
