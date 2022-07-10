@@ -15,6 +15,19 @@ This work is conducted by:
 - [Tan Ngoc Pham](https://github.com/ngctnnnn)
 - [Dzung Tri Bui](https://github.com/BTrDung)
 - [Phuong Minh Nguyen](https://github.com)
+
+```bibtex
+@misc{automated-billiards,
+    author = {Tan Ngoc Pham, Dzung Tri Bui, Phuong Minh Nguyen},
+    title = {{Automated billiards}},
+    year = {2021},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/thoth-ml/Automated_billiards}},
+}
+```
+
+
 ### 1. Introduction
 - Our full approach is demonstrated as:
 
